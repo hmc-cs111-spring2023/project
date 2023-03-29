@@ -169,9 +169,9 @@ Closer to the deadline, I will provide information about how to submit your vide
 
 _Finish your artifact no later than **Friday, April 28**._
 
-Commit all the materials for your language, along with a few sample programs. Be sure the
-`README.md` file describes how a user can run the sample programs in your language,
-including any additional software, libraries, or tools that are required. Test-drive this
-process to make sure that someone else can easily use your DSL. Your code should follow
-good practices. In particular, it should be well-architected (i.e., modular), well-tested,
-and well-documented.
+Commit all the materials for your language, along with a few sample programs, to your
+artifact repo. Be sure the `README.md` file describes how a user can run the sample
+programs in your language, including any additional software, libraries, or tools that are
+required. Test-drive this process to make sure that someone else can easily use your DSL.
+Your code should follow good practices. In particular, it should be well-architected
+(i.e., modular), well-tested, and well-documented.
