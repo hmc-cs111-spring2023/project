@@ -46,7 +46,7 @@ you can include links to examples, pictures of markerboard sessions, etc.). A li
 of time reflecting is also a good way to zoom out and check your own progress on the
 project.
 
-To write your notebook, respond to the prompts in file from the [notebooks](./notebooks/)
+To write your notebook, respond to the prompts in the file from the [notebooks](./notebooks/)
 folder for the appropriate week. Below are some suggested "themes" for each week of the
 project. You are not required to write about these topics each week, but I include them to
 help give you a sense of how to plan out the project and what you might reflect on each
