@@ -11,7 +11,7 @@ You will create two repositories for your project: one for reflecting on your pr
 sharing your work with your critique partners, and one for your project artifact itself.
 Details for both repos are below.
 
-## Reflection repo
+### Reflection repo
 
 The repository that contains this file is for reflecting on your progress and for sharing
 your work with your critique group. You will contribute to a notebook entry each week (see
@@ -19,7 +19,7 @@ more details below).
 
 To create the reflection repo, use our typical Github-Classroom-based workflow.
 
-## Artifact repo
+### Artifact repo
 
 You should separately create a repository for your project artifact. This repository will
 contain all the code for your project, along with any other files that are part of your
